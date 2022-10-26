@@ -1,0 +1,6 @@
+# Data files
+*.txt
+
+# Model files
+*.pth
+*pt
